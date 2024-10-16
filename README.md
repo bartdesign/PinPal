@@ -5,7 +5,7 @@ The VPX iOS App has built-in support for a ZeDMD display device, and i've build 
 
 ![pinball handheld_s](https://github.com/user-attachments/assets/167c5652-8f31-4f30-a548-61e32d66f4b8)
 
-# Progress
+## Progress
 After some weeks of thinkering I have finished the first prototype. This still has some rough edges, but it is fully working as imagined the initial concept. The current version is made for the iPhone Pro Max series; the bigger phones with USB-C connector. I plan to release 4 different versions:
 - iPhone 15/16 Pro Max USB-C (already released)
 - iPhone 15/16 Pro USB-C
@@ -16,7 +16,7 @@ Right now i'm not satisfied with the button placement and try some new configs t
 
 I will release all my 3d printable files in STL and Step form. I encourage others to adapt and change my designs. 
 
-# BOM (Bill of materials)
+## BOM (Bill of materials)
 
 |Description|Amount|Link|
 |---|---|---|
@@ -28,11 +28,11 @@ I will release all my 3d printable files in STL and Step form. I encourage other
 |Screws|6x|TBD|
 |Screws|6x|TBD|
 
-# Build instructions
+## Build instructions
 
 Stay tuned, i will document this later.
 
-# Setup instructions
+## Setup instructions
 
 1. Install VPX from the Apple iOS store.
 2. Click the cog at the right top to open the VPX Settings.
@@ -40,7 +40,7 @@ Stay tuned, i will document this later.
 4. Fill in the IP Adress and use the default port number 3333.
 5. Tap Done in the top right, load up a table and have fun!
 
-# Thanks
+## Thanks
 
 I would like to thank the following people for help on this project, without them this wouldn't have been possible:
 
