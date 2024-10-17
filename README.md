@@ -23,15 +23,17 @@ There are 4 different scaling methods available; this is using the 2x2 pixel mod
 <img src="https://github.com/user-attachments/assets/85e6f304-32de-485e-bb94-c0e83149d9a0" width=50% height=50%>
 
 ## Progress
-After some weeks of thinkering I have finished the first prototype. This still has some rough edges, but it is fully working as imagined the initial concept. The current version is made for the iPhone Pro Max series; the bigger phones with USB-C connector. I plan to release 4 different versions:
-- iPhone 15/16 Pro Max USB-C (already released)
-- iPhone 15/16 Pro USB-C
-- iPhone 13/14 Pro Max Lighting
-- iPhone 13/14 Pro Lighting
+After weeks of tinkering, I've completed the first prototype of my portable pinball handheld device. While it still has some rough edges, it fully works as I originally envisioned. The current version is designed for the iPhone Pro Max series with a USB-C connector. Moving forward, I plan to release four versions:
 
-Right now i'm not satisfied with the button placement and try some new configs to see what is comfortable. Also i've made a firmware for the ESP32 Zero to emulate a keyboard for the hardware buttons; i plan to convert this firmware to a gamecontroller get rid of the missing onscreen keyboard issue. 
+iPhone 15/16 Pro Max (USB-C) — already released
+iPhone 15/16 Pro (USB-C)
+iPhone 13/14 Pro Max (Lightning)
+iPhone 13/14 Pro (Lightning)
 
-I will release all my 3d printable files in STL and Step form. I encourage others to adapt and change my designs. 
+At the moment, I'm experimenting with different button configurations to improve comfort, as I'm not entirely satisfied with the current layout. I’ve also developed firmware for the ESP32 Zero that emulates a keyboard for the hardware buttons. In the next iteration, I’ll be converting this firmware to function as a game controller, which should resolve the issue of the on-screen keyboard interfering with gameplay.
+
+I’ll be releasing all of my 3D printable files in both STL and STEP formats. I’m not a professional 3D modeler; so the models are not perfect :-)
+I encourage others to take my designs, improve upon them, and make the project better or start their own versions of this concept!
 
 ## BOM (Bill of materials)
 
