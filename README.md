@@ -9,7 +9,7 @@ The VPX iOS App has built-in support for a ZeDMD display device, and i've build 
 
 ### DMD close up: 
 
-[![VPX DMD](https://img.youtube.com/vi/JCEzE09UcEo/0.jpg)](https://www.youtube.com/watch?v=JCEzE09UcEo)
+[![VPX DMD](https://img.youtube.com/vi/JCEzE09UcEo/0.jpg)](https://www.youtube.com/shorts/JCEzE09UcEo)
 
 There are 4 different scaling methods available; this is using the 2x2 pixel mode ( this is drawn in a 4x4 black pixel block to simulate the DMD effect ).
 
