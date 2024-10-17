@@ -25,14 +25,14 @@ There are 4 different scaling methods available; this is using the 2x2 pixel mod
 ## Progress
 After weeks of tinkering, I've completed the first prototype of my portable pinball handheld device. While it still has some rough edges, it fully works as I originally envisioned. The current version is designed for the iPhone Pro Max series with a USB-C connector. Moving forward, I plan to release four versions:
 
-iPhone 15/16 Pro Max (USB-C) — already released
-iPhone 15/16 Pro (USB-C)
-iPhone 13/14 Pro Max (Lightning)
-iPhone 13/14 Pro (Lightning)
+iPhone 15/16 Pro Max (USB-C) — already released <br>
+iPhone 15/16 Pro (USB-C)<br>
+iPhone 13/14 Pro Max (Lightning)<br>
+iPhone 13/14 Pro (Lightning)<br>
 
 At the moment, I'm experimenting with different button configurations to improve comfort, as I'm not entirely satisfied with the current layout. I’ve also developed firmware for the ESP32 Zero that emulates a keyboard for the hardware buttons. In the next iteration, I’ll be converting this firmware to function as a game controller, which should resolve the issue of the on-screen keyboard interfering with gameplay.
 
-I’ll be releasing all of my 3D printable files in both STL and STEP formats. I’m not a professional 3D modeler; so the models are not perfect :-)
+I’ll be releasing all of my 3D printable files in both STL and STEP formats. I’m not a professional 3D modeler; so the models are not perfect :-) <br>
 I encourage others to take my designs, improve upon them, and make the project better or start their own versions of this concept!
 
 ## BOM (Bill of materials)
