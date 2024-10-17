@@ -1,7 +1,7 @@
 # PinPal
-PinPal is a handheld device that acts like a controller for your iPhone. It has 4 hardware buttons and a DMD display. It is made specifically for the newly released VPX (Visual Pinball X) app on the Apple iOS app store.
+PinPal is a handheld device that acts as a controller for your iPhone. It has four hardware buttons and a DMD display. It is made specifically for the newly released VPX (Visual Pinball X) app on the Apple iOS App Store.
 
-The VPX iOS App has built-in support for a ZeDMD display device, and i've build a specific firmware for the Lilygo T-Display S3 AMOLED device. The display refresh speed is high enough for enjoyable gameplay and there are also different scaling modes available to simulate a DMD pixel display. The ZeDMD firmware has full support for colorized DMD with the help of [Serum](https://github.com/zesinger/libserum).
+The VPX iOS app has built-in support for a ZeDMD display device, and I've built specific firmware for the Lilygo T-Display S3 AMOLED device. The display refresh speed is high enough for enjoyable gameplay, and there are also different scaling modes available to simulate a DMD pixel display. The ZeDMD firmware has full support for colorized DMD with the help of [Serum](https://github.com/zesinger/libserum).
 
 ### Gameplay:
 
