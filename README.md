@@ -16,7 +16,9 @@ The VPX iOS App has built-in support for a ZeDMD display device, and i've build 
 
 ![image](https://github.com/user-attachments/assets/85e6f304-32de-485e-bb94-c0e83149d9a0)
 
-
+Videos:
+Gameplay: https://youtu.be/CqxvdAZtwaw
+DMD in action: https://www.youtube.com/shorts/JCEzE09UcEo
 
 ## Progress
 After some weeks of thinkering I have finished the first prototype. This still has some rough edges, but it is fully working as imagined the initial concept. The current version is made for the iPhone Pro Max series; the bigger phones with USB-C connector. I plan to release 4 different versions:
