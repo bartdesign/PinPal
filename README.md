@@ -17,7 +17,9 @@ The VPX iOS App has built-in support for a ZeDMD display device, and i've build 
 ![image](https://github.com/user-attachments/assets/85e6f304-32de-485e-bb94-c0e83149d9a0)
 
 Videos:
+
 Gameplay: https://youtu.be/CqxvdAZtwaw
+
 DMD in action: https://www.youtube.com/shorts/JCEzE09UcEo
 
 ## Progress
