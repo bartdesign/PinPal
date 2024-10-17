@@ -3,6 +3,18 @@ PinPal is a handheld device that acts like a controller for your iPhone. It has 
 
 The VPX iOS App has built-in support for a ZeDMD display device, and i've build a specific firmware for the Lilygo T-Display S3 AMOLED device. The display refresh speed is high enough for enjoyable gameplay and there are also different scaling modes available to simulate a DMD pixel display. The ZeDMD firmware has full support for colorized DMD with the help of [Serum](https://github.com/zesinger/libserum).
 
+### Gameplay:
+
+[![VPX Gameplay](https://img.youtube.com/vi/CqxvdAZtwaw/0.jpg)](https://www.youtube.com/watch?v=CqxvdAZtwaw)
+
+### DMD close up: 
+
+[![VPX DMD](https://img.youtube.com/vi/JCEzE09UcEo/0.jpg)](https://www.youtube.com/watch?v=JCEzE09UcEo)
+
+There are 4 different scaling methods available; this is using the 2x2 pixel mode ( this is drawn in a 4x4 black pixel block to simulate the DMD effect ).
+
+### Pictures:
+
 ![pinball handheld_s](https://github.com/user-attachments/assets/167c5652-8f31-4f30-a548-61e32d66f4b8)
 
 ![image](https://github.com/user-attachments/assets/0e36f419-3ddb-421d-8e22-fe06388dd69a)
@@ -16,13 +28,6 @@ The VPX iOS App has built-in support for a ZeDMD display device, and i've build 
 
 ![image](https://github.com/user-attachments/assets/85e6f304-32de-485e-bb94-c0e83149d9a0)
 
-Videos:
-
-Gameplay:
-[![VPX Gameplay](https://img.youtube.com/vi/CqxvdAZtwaw/0.jpg)](https://www.youtube.com/watch?v=CqxvdAZtwaw)
-
-DMD in action: 
-[![VPX DMD](https://img.youtube.com/vi/JCEzE09UcEo/0.jpg)](https://www.youtube.com/watch?v=JCEzE09UcEo)
 
 
 ## Progress
