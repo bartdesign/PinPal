@@ -16,17 +16,11 @@ There are 4 different scaling methods available; this is using the 2x2 pixel mod
 ### Pictures:
 
 <img src="https://github.com/user-attachments/assets/167c5652-8f31-4f30-a548-61e32d66f4b8" width=50% height=50%>
-
 <img src="https://github.com/user-attachments/assets/0e36f419-3ddb-421d-8e22-fe06388dd69a" width=50% height=50%>
-
 <img src="https://github.com/user-attachments/assets/ff31e228-4cdf-416c-bdde-b99032e7bb37" width=50% height=50%>
-
 <img src="https://github.com/user-attachments/assets/4f6e2528-6082-4bd9-8f7d-4d5c7ad7e045" width=50% height=50%>
-
 <img src="https://github.com/user-attachments/assets/faa7a293-437d-4c6f-bf54-5b4bd4f6bc31" width=50% height=50%>
-
 <img src="https://github.com/user-attachments/assets/85e6f304-32de-485e-bb94-c0e83149d9a0" width=50% height=50%>
-
 
 ## Progress
 After some weeks of thinkering I have finished the first prototype. This still has some rough edges, but it is fully working as imagined the initial concept. The current version is made for the iPhone Pro Max series; the bigger phones with USB-C connector. I plan to release 4 different versions:
