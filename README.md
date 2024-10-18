@@ -44,8 +44,8 @@ I encourage others to take my designs, improve upon them, and make the project b
 |Soft dome tactile push buttons|4 buttons (buy a 20 pack) |https://aliexpress.com/item/1005005384244944.html|
 |Keycaps with switches (we dont use the switches)|1x|https://aliexpress.com/item/32815260070.html|
 |USB-C female 5 pin connector|2x|https://aliexpress.com/item/1005006260700701.html|
-|Screws|6x|TBD|
-|Screws|6x|TBD|
+|Cylinder head screw M4|6x| - I ordered these(the site has all the exact dimensions): https://www.rvspaleis.nl/bouten/binnenzeskant/din-7984/din-7984-[-]-a2-[-]-m4/7984-2-4x12_1 <br> - USA Link of something equivalent: https://belmetric.com/m4x0-7-a2-stainless-din-7984-allen-socket-low-head-cap-screw/?sku=BSH4X12LOWSS |
+|Sleeve Nut M4|6x| - I ordered these(the site has all the exact dimensions): https://www.rvspaleis.nl/moeren/hulsmoeren/verzonken-binnenzeskant/9062-2-4_1 <br> - USA link of something equivalent: https://belmetric.com/sleeve-nut-flat-head-stainless/?gad_source=1&gclid=CjwKCAjwjsi4BhB5EiwAFAL0YEJn1d-U1o56CrpPKzjxZ5y5co3S5-NrORw0wPohaRkb9woiMzEqkhoCX0kQAvD_BwE |
 
 ## Build instructions
 
