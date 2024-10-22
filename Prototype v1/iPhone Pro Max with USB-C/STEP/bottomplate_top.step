@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'bottomplate_top.step',
-/* time_stamp */ '2024-10-16T20:51:11+02:00',
+/* time_stamp */ '2024-10-20T12:53:44+02:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
@@ -771,16 +771,16 @@ SOLID_ANGLE_UNIT()
 #717=PRODUCT_DEFINITION_SHAPE('',$,#720);
 #718=SHAPE_REPRESENTATION('',(#424),#710);
 #719=PRODUCT_DEFINITION_CONTEXT('part definition',#724,'design');
-#720=PRODUCT_DEFINITION('portable vpin','portable vpin v23',#721,#719);
+#720=PRODUCT_DEFINITION('portable vpin','portable vpin v25',#721,#719);
 #721=PRODUCT_DEFINITION_FORMATION('',$,#726);
-#722=PRODUCT_RELATED_PRODUCT_CATEGORY('portable vpin v23',
-'portable vpin v23',(#726));
+#722=PRODUCT_RELATED_PRODUCT_CATEGORY('portable vpin v25',
+'portable vpin v25',(#726));
 #723=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#724);
 #724=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #725=PRODUCT_CONTEXT('part definition',#724,'mechanical');
-#726=PRODUCT('portable vpin','portable vpin v23',$,(#725));
+#726=PRODUCT('portable vpin','portable vpin v25',$,(#725));
 #727=PRESENTATION_STYLE_ASSIGNMENT((#730));
 #728=PRESENTATION_STYLE_ASSIGNMENT((#731));
 #729=PRESENTATION_STYLE_ASSIGNMENT((#732));
