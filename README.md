@@ -25,7 +25,10 @@ There are 4 different scaling methods available; this is using the 2x2 pixel mod
 ## Progress
 -- Update 22-10-2024
 
-I've changed the flipper buttons to the top of the unit; it works a lot better then the old version. I've also included 2 extra buttons for nudging. I plan to make a sqeeuze to nudge function in combination with the accelerometer in the future and use these buttons for magnasave. I also added a cable guide system in the bottom plate to easily wire up the unit. Also the dmd display cutout has been changed to a bigger bezel and the mounting solution has been improved and optimized for the lilygo T-display amoled v2.0 solderless.
+- Changed the flipper buttons to the top of the unit; it works a lot better then the old version.
+- 2 extra buttons for nudging. I plan to make a sqeeuze to nudge function in combination with the accelerometer in the future and use these buttons for magnasave.
+- Added a cable guide system in the bottom plate to easily wire up the unit.
+- The dmd display cutout has been changed to a bigger bezel and the mounting solution has been improved and optimized for the lilygo T-display amoled v2.0 solderless.
 
 Todo:
 - Better usb-c connector mount, need to lower it a bit and but the connector back a bit.
