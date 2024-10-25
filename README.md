@@ -25,7 +25,10 @@ There are 4 different scaling methods available; this is using the 2x2 pixel mod
 ## Progress
 -- Update 22-10-2024
 
-I've changed the flipper buttons to the top of the unit; it works a lot better then the old version. I've also included 2 extra buttons for nudging. I plan to make a sqeeuze to nudge function in combination with the accelerometer in the future and use these buttons for magnasave. I also added a cable guide system in the bottom plate to easily wire up the unit. Also the dmd display cutout has been changed to a bigger bezel and the mounting solution has been improved and optimized for the lilygo T-display amoled v2.0 solderless.
+- Changed the flipper buttons to the top of the unit; it works a lot better then the old version.
+- 2 extra buttons for nudging. I plan to make a sqeeuze to nudge function in combination with the accelerometer in the future and use these buttons for magnasave.
+- Added a cable guide system in the bottom plate to easily wire up the unit.
+- The dmd display cutout has been changed to a bigger bezel and the mounting solution has been improved and optimized for the lilygo T-display amoled v2.0 solderless.
 
 Todo:
 - Better usb-c connector mount, need to lower it a bit and but the connector back a bit.
@@ -51,10 +54,11 @@ I encourage others to take my designs, improve upon them, and make the project b
 |---|---|---|
 |T-Display S3 AMOLED V2.0 Non-Soldered Pin [H713]| 1x | https://www.lilygo.cc/products/t-display-s3-amoled?variant=43506902368437 |
 |ESP32-S3-Zero| 1x | https://www.waveshare.com/esp32-s3-zero.htm |
-|Soft dome tactile push buttons|4 buttons (buy a 20 pack) |https://aliexpress.com/item/1005005384244944.html|
+|Soft dome tactile push buttons (4PIN) version|4 buttons (buy a 20 pack) |https://aliexpress.com/item/1005005384244944.html|
 |USB-C female 5 pin connector|2x|https://aliexpress.com/item/1005006260700701.html|
 |Cylinder head screw M4|6x| - I ordered these(the site has all the exact dimensions): https://www.rvspaleis.nl/bouten/binnenzeskant/din-7984/din-7984-[-]-a2-[-]-m4/7984-2-4x12_1 <br> - USA Link of something equivalent: https://belmetric.com/m4x0-7-a2-stainless-din-7984-allen-socket-low-head-cap-screw/?sku=BSH4X12LOWSS |
 |Sleeve Nut M4|6x| - I ordered these(the site has all the exact dimensions): https://www.rvspaleis.nl/moeren/hulsmoeren/verzonken-binnenzeskant/9062-2-4_1 <br> - USA link of something equivalent: https://belmetric.com/sleeve-nut-flat-head-stainless/?gad_source=1&gclid=CjwKCAjwjsi4BhB5EiwAFAL0YEJn1d-U1o56CrpPKzjxZ5y5co3S5-NrORw0wPohaRkb9woiMzEqkhoCX0kQAvD_BwE |
+|Small copper insulated wires|+- 70 cm| I cut op an old broken USB lead and recycled those wires |
 
 ## Build instructions
 
