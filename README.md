@@ -15,7 +15,7 @@ There are 4 different scaling methods available; this is using the 2x2 pixel mod
 
 ### Pictures:
 
-<img src="https://github.com/user-attachments/assets/167c5652-8f31-4f30-a548-61e32d66f4b8" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/5bec6ebf-a239-4ce7-97a5-c5145f1b9f5f" width=50% height=50%>
 <img src="https://github.com/user-attachments/assets/0e36f419-3ddb-421d-8e22-fe06388dd69a" width=50% height=50%>
 <img src="https://github.com/user-attachments/assets/ff31e228-4cdf-416c-bdde-b99032e7bb37" width=50% height=50%>
 <img src="https://github.com/user-attachments/assets/4f6e2528-6082-4bd9-8f7d-4d5c7ad7e045" width=50% height=50%>
